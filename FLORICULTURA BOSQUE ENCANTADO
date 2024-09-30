@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Floricultura Bosque Encantado</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <section class="principal container">
+        <div class="container__caixa">
+            <h1 class="container__titulo">Com a floricultura Bosque Encantado, você tem as melhores flores!!</h1>
+            <img src="img/Combo.png" alt="lindas flores" class="container__imagem">
+            <a href="www.alura.com.br" class="container__botao">promoções*</a>
+            <a href="www.alura.com.br" class="container__botao botao_secundario">catágalo de flores</a>
+            <p class="container__aviso">*O preço pode variar, dependendo das flores</p>
+        </div>
+    </section>
+
+    <section class="container secundario">
+        <img src="img/Plataformas.png" alt="Um monitor e um celular com as melhores flores" class="secundario__imagem">
+        <div class="container__descricao">
+            <h2 class="descricao__titulo">Melhores flores</h2>
+            <h2 class="descricao__titulo">Melhores flores</h2>
+            <p class="descricao__texto">Presenteie com as melhores e mais bonitas flores!</p>
+        </div>
+    </section>
+
+    <section class="container secundario">
+        <div class="container__descricao">
+            <p class="descricao__texto"><!DOCTYPE html>
+<html>
+
+<head>
+    <title>Floricultura Bosque Encantado</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <section class="principal container">
+        <div class="container__caixa">
+            <h1 class="container__titulo">Com a floricultura Bosque Encantado, você tem as melhores flores!!</h1>
+            <img src="img/Combo.png" alt="lindas flores" class="container__imagem">
+            <a href="www.alura.com.br" class="container__botao">promoções*</a>
+            <a href="www.alura.com.br" class="container__botao botao_secundario">catágalo de flores</a>
+            <p class="container__aviso">*O preço
+                Só a floricultura Bosque Encantado tem as melhores e mais bonitas flores, atendimentos de alta qualidade!
+            </p>
+            <a href="www.alura.com.br" class="container__botao secundario__botao" container>flores e arcos</a>
+        </div>
+        <img src="img/Telas.png" alt="nossas melhores e mais vendidas flores" class="secundario__imagem">
+    </section>
+
+    <section class="container secundario">
+        <img src="img/Notebook.png" alt="Notebook com a foto dos boquês mais vendidos"
+            class="secundario__imagem">
+        <div class="container__descricao">
+            <h2 class="descricao__titulo">Baixe nosso catagalo</h2>
+            <p class="descricao__texto">Acesse nosso site e redes sociais para ficar sempre por dentro das novidades</p>
+        </div>
+    </section>
+
+    <section class="dispositivos">
+        <h2 class="dispositivos__titulo">Disponível nos seus dispositivos favoritos</h2>
+        <ul class="dispositivos__lista">
+            <li>
+                <img src="img/tv.png" alt="Ícone de televisão">
+                <h3 class="lista__item">TV</h3>
+            </li>
+            <li>
+                <img src="img/computador.png" alt="Ícone de computador">
+                <h3 class="lista__item">Computador</h3>
+            </li>
+            <li>
+                <img src="img/celular.png" alt="Ícone de celular">
+                <h3 class="lista__item">Celular</h3>
+            </li>
+        </ul>
+    </section>
+
+    <footer class="rodape">
+        <img src="img/Logo.png" alt="Alura+" class="rodape__logo">
+        <ul class="rodape__lista">
+            <li class="lista__link">
+                <a href="#">Idioma</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Dispositivos compatíveis</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Contrato de assinatura</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Politica de privacidade</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Proteção de dados no Brasil</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Anuncios personalizados</a>
+            </li>
+            <li class="lista__link">
+                <a href="#">Ajuda</a>
+            </li>
+        </ul>
+        <p class="rodape__texto">® 2021 Floricultura Bosque Encantado. Todos os direitos reservados. Serviço de
+            alta qualidade. </p>
+        <p class="rodape__texto">Floricultura Bosque Encantado., Rua João aragão, 168 - Jardim Zaíra, Mauá - SP, 09321-300, Brasil e CNPJ 05.555.382/0001-33</p>
+    </footer>
+</body>
+
+</html>
